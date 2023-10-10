@@ -1,0 +1,20 @@
+Дата и время вызова функции: 10/10/2023, 16:18:17
+ Функция: flat_generator
+ Аргументы: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), {}
+ Возвращаемое значение: <generator object flat_generator at 0x7f7da22e9a80>
+
+Дата и время вызова функции: 10/10/2023, 16:18:17
+ Функция: flat_generator
+ Аргументы: (['a', 'b', 'c'],), {}
+ Возвращаемое значение: <generator object flat_generator at 0x7f7da22e9b60>
+
+Дата и время вызова функции: 10/10/2023, 16:18:17
+ Функция: flat_generator
+ Аргументы: (['d', 'e', 'f', 'h', False],), {}
+ Возвращаемое значение: <generator object flat_generator at 0x7f7da22e9b60>
+
+Дата и время вызова функции: 10/10/2023, 16:18:17
+ Функция: flat_generator
+ Аргументы: ([1, 2, None],), {}
+ Возвращаемое значение: <generator object flat_generator at 0x7f7da22e9b60>
+
